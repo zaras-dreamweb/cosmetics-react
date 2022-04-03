@@ -1,0 +1,50 @@
+[
+    {
+        "id": "6248b09c2ce3adcd1e8c65ae",
+        "name": "Lipstick",
+        "price": 340,
+        "picture": "https://images.unsplash.com/photo-1625093742435-6fa192b6fb10?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bGlwc3RpY2t8ZW58MHx8MHx8&w=1000&q=80",
+        "brand": "MAC",
+        "description": "lorem lorem lorem lorem, lorem lorem lorem lorem ,lorem lorem lorem lorem, lorem lorem lorem lorem,lorem lorem lorem lorem."
+    },
+    {
+        "id": "6248b09c8b39e21e37c5fc8d",
+        "name": "Blush",
+        "price": 340,
+        "picture": "https://m.media-amazon.com/images/I/81OpzgQsbwL._AC_SS450_.jpg",
+        "brand": "E.L.f",
+        "description": "lorem lorem lorem lorem, lorem lorem lorem lorem ,lorem lorem lorem lorem, lorem lorem lorem lorem,lorem lorem lorem lorem."
+    },
+    {
+        "id": "6248b09ce3fe807432cd7c2c",
+        "name": "Eye Liner",
+        "price": 340,
+        "picture": "https://m.media-amazon.com/images/I/411dyS04tVL._SL1000_.jpg",
+        "brand": "ColorPOP",
+        "description": "lorem lorem lorem lorem, lorem lorem lorem lorem ,lorem lorem lorem lorem, lorem lorem lorem lorem,lorem lorem lorem lorem."
+    },
+    {
+        "id": "6248b09c5cefd8caaaca0569",
+        "name": "Lip Liner",
+        "price": 340,
+        "picture": "https://thumbs.dreamstime.com/b/lip-liner-7380822.jpg",
+        "brand": "Wet & Wild",
+        "description": "lorem lorem lorem lorem, lorem lorem lorem lorem ,lorem lorem lorem lorem, lorem lorem lorem lorem,lorem lorem lorem lorem."
+    },
+    {
+        "id": "6248b09ca329f1fce3a2b4a1",
+        "name": "Foundation",
+        "price": 340,
+        "picture": "https://m.media-amazon.com/images/I/616w5vJnKUL._SL1500_.jpg",
+        "brand": "E.L.F",
+        "description": "lorem lorem lorem lorem, lorem lorem lorem lorem ,lorem lorem lorem lorem, lorem lorem lorem lorem,lorem lorem lorem lorem."
+    },
+    {
+        "id": "6248b09cf60a55e5bb8bd11c",
+        "name": "Highlighter",
+        "price": 340,
+        "picture": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/mac-mineralise-skinfinsh-gold-deposit-best-highlighter-1516879477.jpg",
+        "brand": "nyx",
+        "description": "lorem lorem lorem lorem, lorem lorem lorem lorem ,lorem lorem lorem lorem, lorem lorem lorem lorem,lorem lorem lorem lorem."
+    }
+]
